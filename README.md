@@ -20,8 +20,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- GitHub Repo: [](https://github.com/MostafaHamdy3/NFT-Preview-Card)
-- Live Demo: [](https://nft-preview-card-five-tau.vercel.app/)
+- Live Demo: [Vercel](https://nft-preview-card-five-tau.vercel.app/)
 
 ## My process
 

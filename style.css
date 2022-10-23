@@ -136,13 +136,15 @@ h1:active {
 }
 
 .footer__code {
-  color: var(--neutral-ldark);
+  color: var(--primary-blue);
   font-weight: 500;
+  letter-spacing: 0.5px;
 }
 
 .footer__code a {
   color: var(--neutral-white);
   font-weight: 400;
+  margin-left: 3px;
 }
 
 .footer__code a:hover {
